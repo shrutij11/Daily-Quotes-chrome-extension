@@ -1,0 +1,18 @@
+body{
+    height: 300px;
+    width: 300px;
+    background-color:#E6DDC4 ;
+    display: flex;
+    justify-content: center;
+}
+p{
+    display:inner-flex;
+    margin:auto 10px;
+    font-size:22px;
+    color:#678983;
+    border-radius: 6px;
+    border: 2px solid #181D31;
+    border-radius: 8px;
+    padding: 5px;
+    padding:10px;
+}
